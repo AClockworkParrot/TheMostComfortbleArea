@@ -1,0 +1,34 @@
+---
+title: "MarkdownCode"
+output: html_document
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Чекаем первый датасет
+
+```{r}
+mpg <- read.csv('https://courses.openedu.ru/assets/courseware/v1/b6cb4ea6a069a5a588596dd9e12de293/asset-v1:ITMOUniversity+STATR+fall_2024_ITMO+type@asset+block/auto-mpg-quiz.csv')
+tail(mpg)
+summary(mpg)
+
+```
+
+```{r}
+mpg2 <- read.csv('https://courses.openedu.ru/assets/courseware/v1/b6cb4ea6a069a5a588596dd9e12de293/asset-v1:ITMOUniversity+STATR+fall_2024_ITMO+type@asset+block/auto-mpg-quiz.csv', stringsAsFactors = TRUE)
+summary(mpg2)
+?barplot
+```
+
+```{r}
+help("barplot")
+barplot(mpg$hp,
+        main = "Customized bar plot",           # Заголовок
+        xlab = "Number of cylinders",           # X-axis label
+        ylab = "Frequency")
+```

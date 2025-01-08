@@ -1,0 +1,2 @@
+"0","mpg <- read.csv('https://courses.openedu.ru/assets/courseware/v1/b6cb4ea6a069a5a588596dd9e12de293/asset-v1:ITMOUniversity+STATR+fall_2024_ITMO+type@asset+block/auto-mpg-quiz.csv')"
+"0","tail(mpg)"
