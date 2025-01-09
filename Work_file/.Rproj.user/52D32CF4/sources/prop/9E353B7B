@@ -2,12 +2,20 @@
     "tempName": "Untitled1",
     "source_window_id": "",
     "Source": "Source",
+<<<<<<< HEAD
     "cursorPosition": "423,0",
+=======
+    "cursorPosition": "379,0",
+>>>>>>> 4f9f5e0 (Добавлена цельная БД (сборка из xlsx таблиц))
     "scrollLine": "0",
     "rmdVisualMode": "true",
     "rmdVisualWrapConfigured": "true",
     "docOutlineVisible": "0",
     "rmdVisualCollapsedChunks": "",
+<<<<<<< HEAD
     "rmdVisualModeLocation": "16868:19177",
+=======
+    "rmdVisualModeLocation": "15146:14893",
+>>>>>>> 4f9f5e0 (Добавлена цельная БД (сборка из xlsx таблиц))
     "docOutlineSize": "431"
 }

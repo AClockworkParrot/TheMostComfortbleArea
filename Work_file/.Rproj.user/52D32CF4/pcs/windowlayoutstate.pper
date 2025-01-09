@@ -1,5 +1,6 @@
 {
     "left": {
+<<<<<<< HEAD
         "splitterpos": 235,
         "topwindowstate": "NORMAL",
         "panelheight": 993,
@@ -10,5 +11,17 @@
         "topwindowstate": "NORMAL",
         "panelheight": 993,
         "windowheight": 1031
+=======
+        "splitterpos": 169,
+        "topwindowstate": "NORMAL",
+        "panelheight": 716,
+        "windowheight": 754
+    },
+    "right": {
+        "splitterpos": 364,
+        "topwindowstate": "NORMAL",
+        "panelheight": 716,
+        "windowheight": 754
+>>>>>>> 4f9f5e0 (Добавлена цельная БД (сборка из xlsx таблиц))
     }
 }

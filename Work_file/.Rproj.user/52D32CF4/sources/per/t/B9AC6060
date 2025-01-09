@@ -3,7 +3,11 @@
     "path": "C:/Users/lemon/OneDrive/Рабочий стол/Итмо/Инжиниринг управления данными/Work_file/ComfortableArea.Rmd",
     "project_path": "ComfortableArea.Rmd",
     "type": "r_markdown",
+<<<<<<< HEAD
     "hash": "3174865948",
+=======
+    "hash": "611215860",
+>>>>>>> 4f9f5e0 (Добавлена цельная БД (сборка из xlsx таблиц))
     "contents": "",
     "dirty": false,
     "created": 1733262225567.0,
@@ -13,12 +17,17 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
+<<<<<<< HEAD
         "cursorPosition": "423,0",
+=======
+        "cursorPosition": "379,0",
+>>>>>>> 4f9f5e0 (Добавлена цельная БД (сборка из xlsx таблиц))
         "scrollLine": "0",
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
+<<<<<<< HEAD
         "rmdVisualModeLocation": "16868:19177",
         "docOutlineSize": "431"
     },
@@ -28,6 +37,17 @@
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1736127640348,
+=======
+        "rmdVisualModeLocation": "15146:14893",
+        "docOutlineSize": "431"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1736452862,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1736452862089,
+>>>>>>> 4f9f5e0 (Добавлена цельная БД (сборка из xlsx таблиц))
     "read_only": false,
     "read_only_alternatives": []
 }
